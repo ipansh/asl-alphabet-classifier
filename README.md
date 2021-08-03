@@ -1,5 +1,5 @@
 # asl-alphabet-classifier
-Custom-built CNN model for image classification task of American Sign Language with Keras high-level API.
+Custom-built CNN model for image classification of American Sign Language with Keras high-level API.
 Accuracy on the test subset: 96.3%.
 
 Three Jupyter notebooks:
